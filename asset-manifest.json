@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9f728b8f.chunk.css",
+    "main.js": "/static/js/main.9ab7107b.chunk.js",
+    "main.js.map": "/static/js/main.9ab7107b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.502846c9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.502846c9.js.map",
+    "static/js/2.7f8dd644.chunk.js": "/static/js/2.7f8dd644.chunk.js",
+    "static/js/2.7f8dd644.chunk.js.map": "/static/js/2.7f8dd644.chunk.js.map",
+    "static/js/3.56d29767.chunk.js": "/static/js/3.56d29767.chunk.js",
+    "static/js/3.56d29767.chunk.js.map": "/static/js/3.56d29767.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.9f728b8f.chunk.css.map": "/static/css/main.9f728b8f.chunk.css.map",
+    "static/js/2.7f8dd644.chunk.js.LICENSE.txt": "/static/js/2.7f8dd644.chunk.js.LICENSE.txt",
+    "static/media/109.d83a4910.svg": "/static/media/109.d83a4910.svg",
+    "static/media/111.034cca97.svg": "/static/media/111.034cca97.svg",
+    "static/media/150.c3ee6637.svg": "/static/media/150.c3ee6637.svg",
+    "static/media/40.ed4930cb.svg": "/static/media/40.ed4930cb.svg",
+    "static/media/App.css": "/static/media/upheavtt.e3d365ba.ttf",
+    "static/media/allBonecos.47fc6c95.png": "/static/media/allBonecos.47fc6c95.png",
+    "static/media/discord.05f50ed1.svg": "/static/media/discord.05f50ed1.svg",
+    "static/media/discordWhite.cc721ea0.svg": "/static/media/discordWhite.cc721ea0.svg",
+    "static/media/gamification.a8f9f643.png": "/static/media/gamification.a8f9f643.png",
+    "static/media/stickers.7c0204b4.png": "/static/media/stickers.7c0204b4.png",
+    "static/media/twitter-square.61be0557.svg": "/static/media/twitter-square.61be0557.svg",
+    "static/media/twitterWhite.c1971272.svg": "/static/media/twitterWhite.c1971272.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.502846c9.js",
+    "static/js/2.7f8dd644.chunk.js",
+    "static/css/main.9f728b8f.chunk.css",
+    "static/js/main.9ab7107b.chunk.js"
+  ]
+}
